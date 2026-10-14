@@ -29,3 +29,5 @@ python rock-paper-scissors-versus.py
 
 ## 📌 Note
 Made this while practising Python functions and experimenting with the `random` module. Didn't really think I'd end up pushing it to GitHub, but here we are. Also, yes, I know there are a lot of emojis.
+
+- Score counter tracks your wins, losses and draws across all rounds
